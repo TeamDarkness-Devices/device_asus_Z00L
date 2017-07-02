@@ -1,5 +1,8 @@
 $(call inherit-product, device/asus/Z00L/full_Z00L.mk)
 
+# AudioFX
+WITH_AUDIOFX=true
+
 # Inherit some common DND stuff.
 $(call inherit-product, vendor/dnd/config/common_full_phone.mk)
 
