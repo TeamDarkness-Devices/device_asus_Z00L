@@ -8,7 +8,7 @@
   {
     "repository":  "AKabhishek/kernel_asus_msm8916",
     "target_path": "kernel/asus/msm8916",
-    "branch":      "n-mr2"
+    "branch":      "nucleon"
   },
   {
     "repository":  "TheMuppets/proprietary_vendor_asus",
